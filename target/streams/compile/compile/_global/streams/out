@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sehokim/projs/seho/bicycle-factory/src/main/scala/manufacturing/Assembly.scala:13:27: value handle is not a member of bicycle.Bicycle[0m
+[0m[[0m[31merror[0m] [0m[0m        _assemble(bicycle.handle, parts.brakeLever)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sehokim/projs/seho/bicycle-factory/src/main/scala/manufacturing/Assembly.scala:15:27: value frontSporacket is not a member of bicycle.Bicycle[0m
+[0m[[0m[31merror[0m] [0m[0m        _assemble(bicycle.frontSporacket, parts.pedal)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sehokim/projs/seho/bicycle-factory/src/main/scala/manufacturing/Assembly.scala:17:27: value rearWheel is not a member of bicycle.Bicycle[0m
+[0m[[0m[31merror[0m] [0m[0m        _assemble(bicycle.rearWheel, parts.rearSporacket)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sehokim/projs/seho/bicycle-factory/src/main/scala/manufacturing/Assembly.scala:18:27: value rearWheel is not a member of bicycle.Bicycle[0m
+[0m[[0m[31merror[0m] [0m[0m        _assemble(bicycle.rearWheel, parts.rearBrake)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sehokim/projs/seho/bicycle-factory/src/main/scala/manufacturing/Assembly.scala:19:27: value frontSporacket is not a member of bicycle.Bicycle[0m
+[0m[[0m[31merror[0m] [0m[0m        _assemble(bicycle.frontSporacket, parts.chain)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sehokim/projs/seho/bicycle-factory/src/main/scala/manufacturing/Assembly.scala:20:27: value rearSporacket is not a member of bicycle.Bicycle[0m
+[0m[[0m[31merror[0m] [0m[0m        _assemble(bicycle.rearSporacket, bicycle.chain)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/sehokim/projs/seho/bicycle-factory/src/main/scala/manufacturing/Assembly.scala:20:50: value chain is not a member of bicycle.Bicycle[0m
+[0m[[0m[31merror[0m] [0m[0m        _assemble(bicycle.rearSporacket, bicycle.chain)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m
